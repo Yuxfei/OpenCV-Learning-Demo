@@ -23,8 +23,8 @@ Serveral Demo during learning OpenCV
 
 结果图像一：
 
-![Alt text](//001_Auto_Color_Secret_Garden/001_Auto_Color_Secret_Garden/demo022.jpg "结果图像二")
+![Alt text](/001_Auto_Color_Secret_Garden/001_Auto_Color_Secret_Garden/demo022.jpg "结果图像二")
 
 结果图像二：
 
-![Alt text](//001_Auto_Color_Secret_Garden/001_Auto_Color_Secret_Garden/demo011.jpg "水印图像二")
+![Alt text](/001_Auto_Color_Secret_Garden/001_Auto_Color_Secret_Garden/demo011.jpg "水印图像二")
