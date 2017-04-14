@@ -11,7 +11,7 @@ Serveral Demo during learning OpenCV
 
 ## 二、项目模块
 
-### 0、通过编程为秘密花园的图像填充颜色
+### 1、通过编程为秘密花园的图像填充颜色
 
 简介：基于OpenCV实现自动为秘密花园的图片填充颜色
 
